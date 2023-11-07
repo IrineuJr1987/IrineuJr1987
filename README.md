@@ -1,7 +1,7 @@
 ### Olá eu sou o Irineu Junior 👋
 
-- 🔭 Hoje trabalho como Supervisor de Tecnologia
-- 🌱 Estou estudando: Python, pandas, selenium e analise de dados
+- 🔭 Analista de dados
+- 🌱 Python, pandas, selenium e analise de dados
   
 <br>
 <div>
